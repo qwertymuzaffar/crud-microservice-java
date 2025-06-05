@@ -1,0 +1,55 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Spring Boot target folder
+/target/
+
+# Maven files
+/mvnw
+/mvnw.cmd
+/pom.xml.tag
+/pom.xml.backup
+/pom.xml.versionsBackup
+/pom.xml.releaseBackup
+/pom.xml.nextBackup
+
+# Gradle files
+.gradle
+/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.iws
+out/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# NetBeans
+/nbproject/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
+*.properties
+
+# Other
+/temp/
+/tmp/
